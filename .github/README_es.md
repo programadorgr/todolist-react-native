@@ -7,11 +7,11 @@ Copia las contraseñas al portapapeles con un solo clic sin problemas. Enteramen
 
 # 📱 Capturas de pantalla de la aplicación
 
-![Password generator app react native](./docs/passwordgenerator-animated.gif)
+![Password generator app react native](../docs/todolist-animated.gif)
 
-![Password generator app react native](./docs/password_generator_react_native(1).png)
+![Password generator app react native](../docs/password_generator_react_native(1).png)
 
-![Password generator app react native](./docs/password_generator_react_native(2).png)
+![Password generator app react native](../docs/password_generator_react_native(2).png)
 
 # Primeros pasos
 

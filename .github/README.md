@@ -6,11 +6,11 @@ Todolist te permite llevar al día tus listas de tareas personales y profesional
 
 # 📱 Screenshot of the app
 
-![Todolist app react native](./docs/todolist-animated.gif)
+![Todolist app react native](../docs/todolist-animated.gif)
 
-![Todolist app react native](./docs/Todolist-react-native(1).png)
+![Todolist app react native](../docs/Todolist-react-native(1).png)
 
-![Todolist app react native](./docs/Todolist-react-native(2).png)
+![Todolist app react native](../docs/Todolist-react-native(2).png)
 
 
 # Getting Started
